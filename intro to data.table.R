@@ -1,6 +1,7 @@
 # data.table is an enhanced form of data.frame
 # it contains grouping as a vritual third dimension
 # DT[i,j,by]
+# take DT, filter rows in "i", compute "j" grouped by "by"
 
 # 3 ways of creating :
 # data.table()
